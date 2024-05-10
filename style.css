@@ -1,0 +1,22 @@
+.wrap{
+    margin-top: 80px;
+    display: flex;
+    font-size: 14px;
+}
+
+.box{
+    margin-right: 5px;
+    cursor: pointer;
+    transition: all 0.5s;
+    border-radius: 50px;
+    padding: 15px 10px;
+    background-color: #7042b9;
+    color: #fff;
+}
+
+.box:hover{
+    background-color: #73e40a;
+    color: #34495e;
+    transition: all 0.5s;
+}
+
